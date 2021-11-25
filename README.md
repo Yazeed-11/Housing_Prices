@@ -10,7 +10,7 @@
 
 The data pertains to the houses found in a given California district and some summary stats about them based on the 1990 census data.
 
-# Dataset
+# Dataset:
 To achieve the goal of this study the dataset California Housing Prices will be used. This dataset can be found at [Kaggle](https://www.kaggle.com/camnugent/california-housing-prices).
 There is 20641 rows and 10 columns.
 
@@ -37,19 +37,24 @@ The sample of data is shown in the following table:
  </tr>
 </table>
 
-## Tools
+## Tools:
 There are tools that will be used to achieve the goal of this study, such as: 
 - pandas, numpy for exploring the data.
 - matplotlib and Seaborn for visualizing the data.
 - scikit-learn to do our machine learning.
 - statsmodels to do the regressions.
-The work will be done through Jupyter notebook.
+- plotly provides online graphing, analytics, and statistics tools.
+- Power Point
+- Zoom
+
+ The work will be done through Jupyter notebook.
 
 ## Questions that needs to be answered:
 - Does the age of the house affects on the house value ?
 - What is the most favourite house location ?
 - Does the proximity of the house to the ocean or its distance from it affect its price ?
 - What is the relation between the number of bedrooms and the house price ?
+-  Does the population affects on the house value ?
 
 ## Authors:
 - [@msealadwani](https://github.com/msealadwani)

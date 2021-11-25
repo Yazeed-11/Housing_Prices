@@ -45,6 +45,7 @@ There are tools that will be used to achieve the goal of this study, such as:
 - statsmodels to do the regressions.
 - plotly provides online graphing, analytics, and statistics tools.
 - Power Point
+- Canva
 - Zoom
 
  The work will be done through Jupyter notebook.

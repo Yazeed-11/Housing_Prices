@@ -1,7 +1,3 @@
-<b>Yazeed Khalid Alharthi</b><br>
-<b>Project at SDAIA Academy</b><br>
-##
-
 <p align="center">
 <b>California Housing Prices</b><br>
 
@@ -56,6 +52,10 @@ The work will be done through Jupyter notebook.
 - What is the relation between the number of bedrooms and the house price ?
 
 ## Authors:
-- @msealadwani
-- @halaalanzi
-- @Yazeed-11
+- [@msealadwani](https://github.com/msealadwani)
+- [@Yazeed-11](https://github.com/Yazeed-11)
+- [@halaalanzi](http://github.com/halaalanzi)
+  
+ <b>Project at SDAIA Academy</b><br>
+
+

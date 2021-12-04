@@ -1,5 +1,6 @@
-<p align="center">
-<b>California Housing Prices</b><br>
+
+  # <p  align="center">  **California Housing Prices** </p>
+
 
 
 <p align="center" width="100%">
@@ -51,11 +52,10 @@ There are tools that will be used to achieve the goal of this study, such as:
  The work will be done through Jupyter notebook.
 
 ## Questions that needs to be answered:
-- Does the age of the house affects on the house value ?
-- What is the most favourite house location ?
-- Does the proximity of the house to the ocean or its distance from it affect its price ?
-- What is the relation between the number of bedrooms and the house price ?
--  Does the population affects on the house value ?
+- Does the age of the house affect on the house value ?
+- What do people prefer on their house location ?
+- Does the proximity of the house to the ocean affect its price ?
+- What is the most city has the highest population ?
 
 ## Authors:
 - [@msealadwani](https://github.com/msealadwani)
